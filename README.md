@@ -17,6 +17,7 @@ It's a simple calculator to calculate the future value of an investment or loan 
 ## Installation requirement
 No, it's pretty easy to use.
 
-## 
+## Contributor
+2020 Spring - Programing with Python
 
 
