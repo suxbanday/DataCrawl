@@ -1,14 +1,14 @@
 DataCrawl
 =====
 
-##Interest Calculator
+## Interest Calculator
 
 It's a simple calculator to calculate the future value of an investment or loan after inerest has compounded.
 
-##Contents list
+## Contents list
 
 
-##Installation requirement
+## Installation requirement
 No, it's pretty easy to use.
 
 
